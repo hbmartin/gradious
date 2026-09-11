@@ -11,6 +11,10 @@ node_modules
 dist
 dist-ssr
 *.local
+*.tsbuildinfo
+test-results
+playwright-report
+.sites-runtime
 
 # Editor directories and files
 .vscode/*
