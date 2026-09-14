@@ -1,0 +1,43 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`seeded generation > pins representative v1 output 1`] = `
+{
+  "firstLayer": {
+    "colorIndex": 2,
+    "cx": 0.53004,
+    "cy": 1.0906,
+    "driftX": -1.2,
+    "driftY": -3.35,
+    "duration": 54,
+    "fx": 0.64349,
+    "fy": 1.10047,
+    "midpoint": 0.54082,
+    "opacity": 0.62197,
+    "phase": -14.6,
+    "radius": 0.73871,
+    "rotation": 48.51,
+    "scaleX": 0.62162,
+    "scaleY": 0.68128,
+    "skewX": 10.02,
+  },
+  "noiseSeed": 1072,
+  "ramp": [
+    {
+      "color": "#000d23",
+      "position": 0,
+    },
+    {
+      "color": "#251d6e",
+      "position": 0.1874411053303629,
+    },
+    {
+      "color": "#364d6f",
+      "position": 0.34247552246786656,
+    },
+    {
+      "color": "#c4e7ff",
+      "position": 1,
+    },
+  ],
+}
+`;
